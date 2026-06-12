@@ -4,8 +4,7 @@
 This project predicts whether a loan application will be **Approved or Rejected** based on customer details using Machine Learning and a Streamlit web app.
 
 🚀 Live Demo
-👉 https://your-streamlit-link-here  
-*(Replace with your deployed app link)*
+👉 https://credit-risk-prediction-y8ewpjwqkwqyhavlj9t5wt.streamlit.app
  
  📌 Problem Statement
 Banks receive many loan applications daily. Manually verifying each application is time-consuming. This project helps automate the process by predicting loan approval based on applicant data.
